@@ -1,7 +1,7 @@
 ## Reviews_Classification-AmazonAlexa
 
     Model that will predict if the persons review on a product is positive or negative feedback. 
-    We will perform EDA to a specific dataset and then predict the nature of a review.
+    We will perform EDA to a specific dataset and then predict the nature of a review using natural language processing (NLP) techniques..
     
 ## Dataset
 
